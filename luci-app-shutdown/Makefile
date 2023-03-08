@@ -1,10 +1,8 @@
-# Copyright (C) 2020-2021 Hyy2001X <https://github.com/Hyy2001X>
-
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=LuCI Support for Shutdown Target
+LUCI_TITLE:=LuCI Support for Shutdown Openwrt
 PKG_NAME:=luci-app-shutdown
-PKG_VERSION:=1.0
+PKG_VERSION:=20210201
 PKG_RELEASE:=1
 LUCI_PKGARCH:=all
 
